@@ -1,6 +1,6 @@
 ![logo](https://github.com/varungoud1112/VarunGoud-B/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Borlla Varun Goud</h1>
-<h3 align="center">I am currently a fresher ,I am looking for job as Data Analyst..... I am from India</h3>
+<h3 align="center">I am currently a fresher ,I am looking for job as Web technology /Py dev..... I am from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varungoud1112&label=Profile%20views&color=0e75b6&style=flat" alt="varungoud1112" /> </p>
 
