@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varungoud1112&label=Profile%20views&color=0e75b6&style=flat" alt="varungoud1112" /> </p>
 
-- 🌱 I’m currently learning **Numpy,pandas,Matplotlib and Data analytics Essentials cisco certificate**
+- 🌱 I’m currently learning **Numpy,pandas,Matplotlib **
 
-- 👨‍💻 All of my projects are available in my website as mention as resume [https://helovarungoud.dorik.io/](https://helovarungoud.dorik.io/)
+- 👨‍💻 All of my projects are available in my website as mention as resume [https://varungoud2000.netlify.app/)
 
 - 📫 How to reach me **varun.borlla@gmail.com**
 
-- 📄 Know about my experiences [https://helovarungoud.dorik.io/](https://helovarungoud.dorik.io/)
+- 📄 Know about my experiences [https://varungoud2000.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
